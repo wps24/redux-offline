@@ -58,7 +58,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.5.5",
-    "redux-persist": "https://github.com/wps24/redux-persist.git"
+    "redux-persist": "wps24/redux-persist-4.6.0-nobuild"
   },
   "peerDependencies": {
     "redux": ">=3"
